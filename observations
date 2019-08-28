@@ -1,0 +1,46 @@
+search for restaurents:
+  yelp.com/fusion (documentation for the search API)
+
+Client ID
+  oFB27TKvx6bg9MamdrQiVQ
+
+API Key
+  vmoC10ZoXunJxCSRHKliepKixtBUrOr42NXKmQjNfaINpNwmaqzIKCHRnjk3hVhXG6wSUwT8AcdPtRHLY5QW7Dd_non50YQkymBjySQrqfem9wc7xT87qxRMRDdlXXYx
+
+
+3 main types of navigator
+  Drawer Navigator
+  BottomTapNavigator
+  StackNavigator (used)
+
+MAKING NETWORK REQUESTS
+
+fetch: built in function for making network requests
+        error handling is a bit weird
+        requires us to write a lot of wrappeer code to make it work 'sensibly'
+
+axios: separe library for making requests 
+(used) easy to us, sensible defaults
+       increases our app size (very, very slightly)
+      npm install axios
+
+
+Flow in SearchScreen Component
+
+-> SearchScreen function called
+-> searchApi called immediately
+-> make request to yelp API
+-> get search results, call setter
+-> updated state causes component to rerender
+
+use effect is a hook or essentially a function that allows us to run some 
+snippet of code just one time when our component is first rendered to the screen.
+
+run the arrow function every time the component is rendered
+useState(() = {})
+
+run the arrow function only when the component is first rendered
+useState(() => {}, [])
+
+run the arrow function only wheen the component is first rendered and when the value changes
+useState(() => {}, [value])
