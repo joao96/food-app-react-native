@@ -21,6 +21,7 @@ This project was developed using the following technologies:
 
 -  [Axios](https://github.com/axios/axios)
 -  [React Native](https://facebook.github.io/react-native/)
+-  [Yelp API](https://www.yelp.com/developers)
 -  [Expo](https://expo.io/)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
