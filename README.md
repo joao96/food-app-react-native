@@ -4,7 +4,7 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/badge/javascript-100%25-yellow">
 
-  <a href="https://www.codacy.com/manual/joao96/dev-radar?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=joao96/dev-radar&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/manual/joao96/meau-animal-adoption?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=joao96/meau-animal-adoption&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/badge/code%20quality-B-green">
   </a>
 </p>
