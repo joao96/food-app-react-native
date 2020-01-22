@@ -1,3 +1,9 @@
+<h1 align="center">
+    <img alt="food-app" src="https://s3-media2.fl.yelpcdn.com/assets/srv0/developer_pages/999c9dfd1d91/assets/img/landing/developers.png" />
+    <br>
+    Food App
+</h1>
+
 <h4 align="center">
   Simple food related app using React Native and the Yelp API.
 </h4>
@@ -12,7 +18,7 @@
 <p align="center">
   <a href="#checkered_flag-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#rotating_light-attetion">Attetion</a>
 </p>
 
 ## :checkered_flag: Technologies
